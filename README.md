@@ -35,11 +35,10 @@ $ make test
 
 Travis CI
 ---------
-
-You can see the cooperation with Travis CI from
+You can get the cooperation with Travis CI from `.travis.yml`.
+The results of the tests are on
 [here](https://travis-ci.org/iBenza/cmake-example).
 
 LICENCE
 -------
-
 MIT
